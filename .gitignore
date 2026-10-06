@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
+# Local datasets
+data/
+datasets/
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Local runtime data
+uploads/
+crophealth.db
+
+# Secrets / OS files
+.env
+.DS_Store
